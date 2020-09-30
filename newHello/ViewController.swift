@@ -13,6 +13,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         print("Git Tutorial")
+        print("Hi there, this is branch develop")
         // Do any additional setup after loading the view.
     }
 
