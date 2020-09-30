@@ -14,6 +14,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         print("Git Tutorial")
         print("Hi there, this is branch develop")
+        print("Hello, this is commit to remote")
         // Do any additional setup after loading the view.
     }
 
